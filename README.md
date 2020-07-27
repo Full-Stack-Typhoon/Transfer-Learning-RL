@@ -1,6 +1,8 @@
-# Abstract
+# Comparing Transfer Learning in Humans and RL agents
+
+## Abstract
 Progressive Neural Networks (PNNs) are immune to catastrophic forgetting and can leverage prior knowledge via lateral connections to previously learned features (Rusu et al., 2016). We show that they also exhibit compositionality for previously learned concepts. We use PNNs to solve a series of Reinforcement Learning tasks and compare them with patterns of transfer learning in human cognition. Interestingly, we find that our networks exhibit characteristics of transfer that have also been demonstrated in human transfer learning tasks. Furthermore, when combined with a language component, our network1 can transfer previously learned concepts from the source task and compose them to solve the target task. **Paper.pdf** contains relevant examples of Positive Transfer, Negative transfer. 
-# pytorch-a2c-ppo-acktr
+## pytorch-a2c-ppo-acktr
 
 ## Please use hyper parameters from this readme. With other hyper parameters things might not work (it's RL after all)!
 
